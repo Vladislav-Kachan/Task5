@@ -1,0 +1,5 @@
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const USERS_ROUTE = '/users'
+export const EMAIL_ROUTE = '/email'
+export const NEW_EMAIL_ROUTE = '/newmail'
